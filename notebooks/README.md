@@ -16,7 +16,7 @@ This folder contains a single Jupyter notebook that consolidates the entire work
 ### Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/tesla-options-ml.git
+git clone https://github.com/ssithimo/tesla-options-ml.git
 cd tesla-options-ml
 ```
 
