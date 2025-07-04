@@ -1,6 +1,6 @@
 ## Report
 
-A detailed final report is included in the project as `report/Option_Pricing_Report.pdf`.  
+A detailed final report is included in the project as `report/tesla-options-ml-report.pdf`.  
 It covers the full methodology, model selection, evaluation, and conclusions drawn from the Tesla options pricing analysis.
 
 The report includes:
