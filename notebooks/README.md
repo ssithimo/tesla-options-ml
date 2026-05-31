@@ -1,6 +1,6 @@
 This folder contains a single Jupyter notebook that consolidates the entire workflow for the Tesla options pricing project.
 
-Note: if the notebook doesn't open in github, read the printed pdf version [here](https://github.com/ssithimo/tesla-options-ml/edit/main/notebooks/tesla-options-pricing-modeling.pdf)
+Note: if the notebook doesn't open in github, read the printed pdf version [here](https://github.com/ssithimo/tesla-options-ml/blob/main/notebooks/tesla-options-pricing-modeling.pdf)
 ## Contents
 
 - `options_pricing_modeling.ipynb`:  
