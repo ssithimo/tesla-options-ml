@@ -11,4 +11,4 @@ The report includes:
 - Final conclusions and recommendations
 - Appendix of code
 
-📄 View the report: [Tesla Options ML Report.pdf](report/tesla-optoins-ml-report.pdf)
+📄 View the report: [Tesla Options ML Report.pdf](https://github.com/ssithimo/tesla-options-ml/blob/main/report/tesla-options-ml-report.pdf)
